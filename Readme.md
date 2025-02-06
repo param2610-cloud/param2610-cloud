@@ -49,6 +49,10 @@ A passionate B.Tech student transforming complex problems into elegant technolog
 
 **Email**: parambrataghosh26@gmail.com
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/param2610-cloud/param2610-cloud/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/param2610-cloud/param2610-cloud/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/param2610-cloud/param2610-cloud/output/github-snake.svg" />
+</picture>
 ---
-
 *Innovating today for a smarter tomorrow* 💡🌍
