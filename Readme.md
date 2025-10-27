@@ -11,7 +11,8 @@
 
 I'm a **detail-oriented Software Engineer** with a passion for building scalable, real-world solutions. Currently pursuing **B.Tech in Computer Science** at JIS Group, Kolkata, with an impressive **8.218/10.00 GPA**. 
 
-- 🔭 I'm currently working as **Junior Technical Associate at SAPMATE**
+- 🔭 Currently I am working as IT Intern at **AUM Capital Market Private Limited**.   
+- 🔭 I was as **Technical Associate at SAPMATE** for 1 year.
 - 🌱 **Amazon ML Summer School 2025** Selected Participant
 - 🏆 **Smart India Hackathon 2024 Finalist** (Top 5 out of 500+ teams)
 - 📚 **Published Author** - IoT Security System (ISBN: 978-81-983133-1-7)
