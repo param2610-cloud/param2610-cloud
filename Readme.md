@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parambrata Ghosh</h1>
-<h3 align="center">Full-Stack Software Engineer | SaaS Developer | AI Enthusiast</h3>
+<h3 align="center">Distributed Systems Engineer | Real-Time & Event-Driven Infrastructure | Drone Autonomy @ FlytBase</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=param2610-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="param2610-cloud" />
@@ -9,15 +9,15 @@
 
 ## 🚀 About Me
 
-I'm a **detail-oriented Software Engineer** with a passion for building scalable, real-world solutions. Currently pursuing **B.Tech in Computer Science** at JIS Group, Kolkata, with an impressive **8.218/10.00 GPA**. 
+I'm a **Distributed Systems–oriented Software Engineer** building real-time, event-driven infrastructure for autonomous drone operations at **FlytBase**. Experienced in designing scalable microservices, multi-protocol messaging systems (RabbitMQ ↔ MQTT), and low-latency telemetry pipelines. Proven record of leading end-to-end feature ownership across architecture, development, CI/CD, and production deployment.
 
-- 🔭 Currently I am working as SDE Intern at **Flytbase**.
-- 🔭 I was as **IT Intern at Aum Capital Market Pvt. Lim.** for 2 months.
-- 🔭 I was as **Technical Associate at SAPMATE** for 1 year.
+- 🔭 Currently working as **SDE Intern at FlytBase** — enterprise drone autonomy platform (Dec 2025 – Present, Pune)
+- 🔭 Previously **IT Intern at Aum Capital Market Pvt. Ltd.** (Oct 2025 – Dec 2025)
+- 🔭 Previously **Junior Technical Associate at SAPMATE** (Oct 2024 – Sep 2025)
 - 🌱 **Amazon ML Summer School 2025** Selected Participant
-- 🏆 **Smart India Hackathon 2024 Finalist** (Top 5 out of 500+ teams)
+- 🏆 **Smart India Hackathon 2024 Finalist**
 - 📚 **Published Author** - IoT Security System (ISBN: 978-81-983133-1-7)
-- 💡 Passionate about **SaaS, AI, and Geospatial technologies**
+- 💡 Passionate about **real-time systems, data engineering, and scalable backend architecture**
 - 📍 Based in **Howrah, West Bengal, India**
 
 ---
@@ -40,71 +40,102 @@ I'm a **detail-oriented Software Engineer** with a passion for building scalable
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### 📡 Real-Time & Messaging
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Chroma](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### ☁️ Cloud & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 📚 Libraries & Frameworks
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ---
 
 ## 🏆 Key Achievements
 
 🎯 **Amazon ML Summer School 2025** - Selected among competitive global applicants  
-🥇 **Smart India Hackathon 2024 Finalist** - Top 5 out of 500+ submissions (Team Leader)  
+🥇 **Smart India Hackathon 2024 Finalist** - Top 5 finalist (Team Leader)  
 📖 **Published Author** - IoT Security System research (ISBN: 978-81-983133-1-7)  
-🏆 **Tech Fest Winner** - DevRush competition with Team Hexabytes  
-💼 **Current Impact** - Led development improving load time by 40% and SEO traffic by 60%  
+🏆 **Hackathons** - Tech Fest, SIH 25, StatusCode 2.0, Hack4Bengal  
+💻 **TCS Codevita S12** - Global Rank 2364  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🏢 [Alkaa - HR Management SaaS](https://github.com/param2610-cloud/alkaa)
-Multi-tenant HRM system serving 5+ SMEs with payroll, attendance, and role-based access
-- **Tech:** React, Node.js, PostgreSQL, Redis
-- **Impact:** Used by 5+ Small & Medium Enterprises
+HRM system with payroll, attendance, and role-based access — currently used by 3 clients with 20–30 employees each
+- **Tech:** React, Node.js, PostgreSQL, TanStack Query, Prisma
+- **Impact:** Used by 3 clients across SMEs for payroll & HR operations
 
 ### 🤝 [NeighbourLink - Hyperlocal Community Platform](https://github.com/param2610-cloud/neighbourlink)
-Connecting neighbors for resource sharing and urgent assistance
+Connecting neighbors for resource sharing (tools, medical equipment) and urgent assistance within communities
 - **Tech:** React, Node.js, PostgreSQL
-- **Achievement:** Won DevRush Tech Fest
+- **Achievement:** Won 2 hackathons
 
-### ⚖️ [LegalLink - AI Legal Assistant](https://github.com/param2610-cloud/legallink)
-AI-integrated legal aid platform with lawyer matching and case tracking
-- **Tech:** Next.js, FastAPI, RAG models, PostgreSQL
-- **Recognition:** Hack4Bengal 4.0 Project
-
-### 🌍 [BhooDrishti - Satellite Monitoring Tool](https://github.com/param2610-cloud/bhoodrishti)
-Change detection system for tracking deforestation using satellite imagery
-- **Tech:** Google Earth Engine APIs, GIS, Python
-- **Purpose:** Environmental monitoring and conservation
+### 🤖 Smart Assessment Recommendation System — AI Recruitment Tool
+AI-powered recommendation system for HR professionals — suggests the most relevant assessments based on job descriptions using NLP and vector search
+- **Tech:** LangChain, FastAPI, Chroma DB, Python
+- **Purpose:** Intelligent job description–to–assessment matching
 
 ### 🎓 [ClassEdgee - Smart Classroom System](https://github.com/param2610-cloud/classedgee)
-AI-powered class management with face-recognition attendance
-- **Tech:** React, FastAPI, PostgreSQL, OpenCV
-- **Features:** Real-time attendance tracking and scheduling
+AI-powered class management with face-recognition attendance and scheduling
+- **Tech:** React, Express, Node.js, FastAPI, OpenCV, Pandas
+- **Achievement:** Won national-level hackathon
 
 ---
 
 ## 💼 Professional Experience
 
-### 🔹 Junior Technical Associate @ SAPMATE *(Oct 2024 - Present)*
+### 🔹 SDE Intern @ FlytBase *(Dec 2025 – Present | Pune, In Office)*
+FlytBase is an enterprise drone autonomy platform enabling remote fleet management and BVLOS operations.
+
+**Senhive DAA Real-Time Integration (Major Feature Ownership)**
+- Led end-to-end development of a production-grade **DAA (Detect & Avoid)** sensor integration, enabling real-time airspace awareness for autonomous drone fleets
+- Architected and built a **Python async microservice** bridging external RabbitMQ (AMQP) feeds with internal MQTT broker for low-latency telemetry processing
+- Designed an **event-driven, horizontally scalable architecture** with stateless containers and distributed coordination using Redis
+- Implemented resilience patterns: **circuit breaker, exponential backoff, dead-letter handling**, and automated service recovery
+- Built dynamic **device registry & subscription management** system with Redis-backed persistence and MQTT control plane
+- Established **Dockerized deployment and CI/CD pipelines**; owned full lifecycle from architecture to production rollout
+- Delivered **real-time Angular dashboard integration** with live subscriptions and cockpit alert enhancements
+
+### 🔹 IT Intern @ Aum Capital Market Pvt. Ltd. *(Oct 2025 – Dec 2025)*
+- Developed IT Asset Management and IT Help Desk systems
+- Researched Data Leakage Prevention and monitored IT infrastructure
+
+### 🔹 Junior Technical Associate @ SAPMATE *(Oct 2024 – Sep 2025)*
 - Led frontend development of sapmate.com using **React/Next.js**
 - **Performance:** Improved load time by **40%** and SEO traffic by **60%**
-- Developed **Alkaa HR SaaS** platform serving **5+ SMEs**
+- Developed **Alkaa** — an enterprise HR SaaS platform for custom role and payroll management, now used by 5+ SMEs
 - **UI Optimization:** Reduced bounce rate by **35%**, increased signups by **30%**
+- Built Learning Management System, Admission & Sales Management System
 
 ---
 
