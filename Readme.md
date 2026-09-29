@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parambrata Ghosh</h1>
-<h3 align="center">Distributed Systems Engineer | Real-Time & Event-Driven Infrastructure | Drone Autonomy @ FlytBase</h3>
+<h3 align="center">Distributed Systems Engineer | Real-Time & Event-Driven Infrastructure | Principal Product Builder @Infrasquad</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=param2610-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="param2610-cloud" />
@@ -11,7 +11,8 @@
 
 I'm a **Distributed Systems–oriented Software Engineer** building real-time, event-driven infrastructure for autonomous drone operations at **FlytBase**. Experienced in designing scalable microservices, multi-protocol messaging systems (RabbitMQ ↔ MQTT), and low-latency telemetry pipelines. Proven record of leading end-to-end feature ownership across architecture, development, CI/CD, and production deployment.
 
-- 🔭 Recently worked as **SDE Intern at FlytBase** — enterprise drone autonomy platform (Dec 2025 – Present, Pune)
+- 🔭 Previously worked as **Lead Product Builder at Infrasquad** - We do fastest quality hiring for any core(Electrical, Fiber etc...) role for your company by taking help of AI (May 2025 - Present, Remote)
+- 🔭 Previously worked as **SDE Intern at FlytBase** — enterprise drone autonomy platform (Dec 2025 – May 2025, Pune)
 - 🔭 Previously **IT Intern at Aum Capital Market Pvt. Ltd.** (Oct 2025 – Dec 2025)
 - 🔭 Previously **Junior Technical Associate at SAPMATE** (Oct 2024 – Sep 2025)
 - 🌱 **Amazon ML Summer School 2025** Selected Participant
